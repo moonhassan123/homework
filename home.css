@@ -1,0 +1,168 @@
+*{
+    max-width: 1300px;
+    /* margin: 5px; */
+}
+
+.main-din{
+    background-image: url(mmmm.jpg);
+    display: flex;
+
+}
+.text-color{
+color: rgb(73, 134, 134);
+}
+.btn{
+    text-decoration: none;
+    border: 2px solid rgb(220, 141, 30);
+    background-color: rgb(227, 153, 16);
+    padding: 5px 10px ;
+    width: 50px;
+}
+.banner{
+
+    width: 85%;
+}
+.banner img{
+    width: 85%;
+}
+
+.dd{
+    text-emphasis: none;
+    border: 1px solid cadetblue;
+    background-color: brown;
+    padding: 10px 20px;
+    text-align: center;
+    margin: 40px 40px 40px 40px ;
+    
+
+}
+.one{
+background-image: url(moon.webp);
+
+}
+.mov{
+    text-align: center;
+}
+.mob{
+    text-align: center;
+}
+.two{ 
+    text-align: center;
+}
+
+.ww{
+    
+        font-size: 20px;
+        color: #757575;
+    
+}
+.ee{
+    font-weight: 700;
+    font-size: 20px;
+    color: #f3ef0f;
+}
+
+.ss{
+    font-size: 20px;
+    color: #cf5d5d;
+}
+.ff{
+    font-weight: 700;
+    font-size: 20px;
+    color: #effe1b;
+}
+
+.uui{
+    font-size: 20px;
+    color: #757575;
+}
+.uuo{
+    font-weight: 700;
+    font-size: 20px;
+    color: #bbed06;
+}
+
+.rrt{
+    font-size: 20px;
+    color: #757575;
+}
+.rry{
+    font-weight: 700;
+    font-size: 20px;
+    color: #b7dc22;
+}
+.three{
+    text-align: center;
+}
+.photo-tit{
+    display: flex;
+}
+.photo-cas{
+    border: 2px solid aliceblue;
+}
+.photo-cae{
+    border: 2px solid aliceblue;
+}
+.photo-car{
+    border: 2px solid aliceblue;
+}
+.photo-cat{
+    border: 2px solid aliceblue;
+}
+.edu{
+   background-image: url(wwwww.jpeg);
+   border-radius: 10px;
+}
+.hhhh{
+    text-align: center;
+}
+.ll{
+    display: flex;
+}
+.zom{
+    text-align: center;
+   margin: 40px;
+}
+.don{
+    border: 1px solid cadetblue;
+    background-color: brown;
+    padding: 10px 20px;
+    
+}
+.all{
+    background-color: azure;
+    display: flex;
+
+}
+.int{
+    background-color: rgb(235, 244, 244);
+    width: 310px;
+    margin: 40px;
+    border: 1px solid orange;
+    border-radius: 15px;
+    box-shadow:5px 5px 5px 5px #765c5c
+    
+}
+.msg-input{
+    width: 200px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+.eml-input{
+    width: 200px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+.pss-input{
+    width: 270px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+#button{
+    background-color:rgb(171, 151, 203);
+    font: bold;
+    margin: 20px;
+}
