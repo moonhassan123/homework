@@ -30,14 +30,17 @@ color: rgb(73, 134, 134);
     text-emphasis: none;
     border: 1px solid cadetblue;
     background-color: brown;
+    border-radius: 5px;
     padding: 10px 20px;
     text-align: center;
     margin: 40px 40px 40px 40px ;
+    text-decoration: none;
+    color: aliceblue;
     
 
 }
 .one{
-background-image: url(moon.webp);
+background-image: url(jjjjj.avif);
 
 }
 .mov{
@@ -110,7 +113,7 @@ background-image: url(moon.webp);
     border: 2px solid aliceblue;
 }
 .edu{
-   background-image: url(wwwww.jpeg);
+   background-image: url(nnnnnn.jpg);
    border-radius: 10px;
 }
 .hhhh{
@@ -127,6 +130,9 @@ background-image: url(moon.webp);
     border: 1px solid cadetblue;
     background-color: brown;
     padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #b7dc22;
     
 }
 .all{
