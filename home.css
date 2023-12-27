@@ -136,11 +136,19 @@ background-image: url(jjjjj.avif);
     
 }
 .all{
-    background-color: azure;
+    background-color: rgb(224, 250, 234);
     display: flex;
 
 }
+.daaa{
+    background-image: url(popo.jpg);
+    border-radius: 10px;
+}
+#mnb{
+    color: #b7dc22;
+}
 .int{
+    background-image: url(rm422-073.jpg);
     background-color: rgb(235, 244, 244);
     width: 310px;
     margin: 40px;
